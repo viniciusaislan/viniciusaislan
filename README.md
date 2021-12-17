@@ -10,5 +10,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusaislan&show_icons=true&theme=radical&hide=stars,prs,issues,contribs" />
 </a>
 <a href="https://github.com/viniciusaislan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusaislan&show_icons=true&theme=radical&layout=compact&card_width=417" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusaislan&show_icons=true&theme=radical&layout=compact&card_width=445" />
 </a>
