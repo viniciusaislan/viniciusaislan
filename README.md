@@ -18,13 +18,16 @@
   
  
  <h4 align="center">
- <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
- <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
- <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
- <img align="center" alt="CSS" height="40" width="38"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img align="center" alt"angular" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
- <img align="center" alt"spring" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
- <img align="center" alt"MySQL" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+ <img align="center" alt="VScode" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="center" alt="May-Js" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="May-HTML" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="May-CSS" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="java" height="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" /> 
+  <img align="center" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
+  <img align="center" alt="MySQL" height="40px" src="https://cdn-icons-png.flaticon.com/512/528/528260.png" />
+  <img align="center" alt="Spring" height="40px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/> 
+  <img align="center" alt="GitHub" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
+  <img align="center" alt="React" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  
 
   
