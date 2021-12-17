@@ -6,7 +6,7 @@
 
 ##
 <h4 align="center">
-<img align="center"  height="350" alt="gif-Erika" src="https://user-images.githubusercontent.com/95730548/146482008-1b2bd5ce-a7ee-41ab-bddd-d084768cbc10.gif">
+<img align="center"  height="350" alt="gif-mario" src="https://user-images.githubusercontent.com/95730548/146482008-1b2bd5ce-a7ee-41ab-bddd-d084768cbc10.gif">
 
  
 <h4 align="center">
