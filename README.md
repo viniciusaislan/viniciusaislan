@@ -6,7 +6,7 @@
 - 📫 how to reach me: [discord](https://discord.com/users/912707020703027282)
 - 🌈 pronouns: he/him
 - ⚡ fun fact: i'm a pokemon trainer!
-
+ 
 ##
 <h4 align="center">
 <img align="center"  height="350" alt="gif-mario" src="https://user-images.githubusercontent.com/95730548/146482008-1b2bd5ce-a7ee-41ab-bddd-d084768cbc10.gif">
