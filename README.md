@@ -1,8 +1,9 @@
-## hello world!
+## `<> hello world! </>`
 
-- desenvolvedor web full stack junior
-- aluno do bootcamp da generation brasil
-- pronomes: ele/dele
+- 🌈 pronouns: he/him
+- 🔭 i'm currently working on <b>myself</b>
+- 💬 ask me about music, tv shows, movies, festivals...
+- ⚡ fun fact: i'm a pokemon trainer!
 
 ##
 <h4 align="center">
