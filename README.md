@@ -1,8 +1,8 @@
-## Hello World! 👋
+## hello world!
 
-- Desenvolvedor Web Full Stack Junior
-- Aluno do bootcamp da Generation Brasil
-- Pronomes: Ele/Dele
+- desenvolvedor web full stack junior
+- aluno do bootcamp da generation brasil
+- pronomes: ele/dele
 
 ##
 <h4 align="center">
