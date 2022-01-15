@@ -1,8 +1,10 @@
 ### `<> hello world! </>`
 
+- 🔭 working on myself
+- 🌱 learning at [generation brazil](https://brazil.generation.org/) 
+- 💬 ask me about tv shows, movies & music festivals
+- 📫 how to reach me: [discord](https://discord.com/users/912707020703027282)
 - 🌈 pronouns: he/him
-- 🔭 i'm currently working on <b>myself</b>
-- 💬 ask me about music, tv shows, movies, festivals...
 - ⚡ fun fact: i'm a pokemon trainer!
 
 ##
