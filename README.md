@@ -19,6 +19,7 @@
 <img align="center" alt="LM-JAVA" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 <img align="center" alt="LM-MYSQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
 <img align="center" alt="LM-SPRING" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="center" alt="LM-POSTMAN" height="45" width="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
 <img align="center" alt="LM-JS" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="LM-ANGULAR" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img align="center" alt="LM-HTML" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
