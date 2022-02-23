@@ -25,3 +25,10 @@ oi! meu nome é vinicius e eu sou desenvolvedor web full-stack junior.
 <a href="https://instagram.com/viniciusaislan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 </p>
+
+--------------
+
+<h4 align="center">
+  <a href="https://github.com/viniciusaislan">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=viniciusaislan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusaislan&layout=compact&langs_count=7&theme=radical"/> </h4>
